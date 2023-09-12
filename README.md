@@ -1,4 +1,5 @@
-![Black Minimal Business Personal Profile Linkedin Banner](https://drive.google.com/file/d/1DDCAnX_sEV3gTsO0aqx9JsTGAkjCKtvd/view?usp=sharing)
+![Black Minimal Business Personal Profile Linkedin Banner](https://drive.google.com/uc?export=view&id=1DDCAnX_sEV3gTsO0aqx9JsTGAkjCKtvd
+)
 
 
 <h1 align="center">Hi 👋, I'm Pintu Kumar Kushwaha</h1>
