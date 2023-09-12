@@ -20,13 +20,13 @@
 
 - 🌱I’m currently Learning **Data Science, Machine Learning**
 
-- 👨‍💻 All of my projects are available at [https://github.com/pkkpython](https://github.com/pkkpython)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/pkkpython)
 
 - 📝 I regularly write articles on [Medium](https://pintukushwah.medium.com/)
 
 - 💬 Ask me about **SQL, Data Science, Machine Learning**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1Zaiuk8Xio5m0tCjgCE1n7csUGRGuv8VaQdd_FpnCno8/edit?usp=sharing](https://docs.google.com/document/d/1Zaiuk8Xio5m0tCjgCE1n7csUGRGuv8VaQdd_FpnCno8/edit?usp=sharing)
+- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1Zaiuk8Xio5m0tCjgCE1n7csUGRGuv8VaQdd_FpnCno8/edit?usp=sharing)
 
 - ⚡ Fun fact **"Mechanical Engineer by Training, Data Explorer by Choice | Engineering Insights in Data"**
 
