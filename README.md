@@ -1,3 +1,6 @@
+![Black Minimal Business Personal Profile Linkedin Banner](https://drive.google.com/file/d/1DDCAnX_sEV3gTsO0aqx9JsTGAkjCKtvd/view?usp=sharing)
+
+
 <h1 align="center">Hi 👋, I'm Pintu Kumar Kushwaha</h1>
 <h3 align="center">Passionate Data Analyst Uncovering Insights to Drive Business Decisions</h3>
 
