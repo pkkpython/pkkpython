@@ -5,7 +5,13 @@
 
 
 <h1 align="center">Hi 👋
-, I'm Pintu Kumar Kushwaha</h1>
+
+<p align="center">
+  <a href="https://linkedin.com/in/pintukushwaha"><img alt="LinkedIn" src="https://media.tenor.com/yCFHzEvKa9MAAAAi/hello.gif" /></a>
+ 
+</p>
+  
+I'm Pintu Kumar Kushwaha</h1>
 <h3 align="center">Passionate Data Analyst Uncovering Insights to Drive Business Decisions</h3>
 
 <p align="center">
