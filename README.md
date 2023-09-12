@@ -4,7 +4,8 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Pintu Kumar Kushwaha</h1>
+<h1 align="center">Hi 👋
+, I'm Pintu Kumar Kushwaha</h1>
 <h3 align="center">Passionate Data Analyst Uncovering Insights to Drive Business Decisions</h3>
 
 <p align="center">
@@ -32,10 +33,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/pintukushwaha" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="pintukushwaha"  /></a>
-<a href="https://medium.com/@pintukushwah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@pintukushwah" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/lalpursksingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="lalpursksingh" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/lalpursksingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="lalpursksingh" height="30" width="40" /></a>
-<a href="https://discord.gg/QBbmnNjX" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="QBbmnNjX" height="30" width="40" /></a>
+<a href="https://medium.com/@pintukushwah" target="blank"><img align="center" src="https://tse2.mm.bing.net/th?id=OIP.rj9hZk5wYcvqlWxG32jH2QHaHa&pid=Api&P=0&h=220" alt="@pintukushwah" height="50" width="50" /></a>
+<a href="https://www.hackerrank.com/lalpursksingh" target="blank"><img align="center" src="https://s.yimg.com/fz/api/res/1.2/tn.5GO_1lCIJHIf4yR1.GA--~C/YXBwaWQ9c3JjaGRkO2ZpPWZpdDtoPTI0MDtxPTgwO3c9MjQw/https://s.yimg.com/zb/imgv1/7cd2b3c3-d514-3b86-ac69-f6ee424e2a26/t_500x300" alt="lalpursksingh" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/lalpursksingh" target="blank"><img align="center" src="https://leetcode.com/static/images/LeetCode_logo.png" alt="lalpursksingh" height="30" width="50" /></a>
+<a href="https://discord.gg/QBbmnNjX" target="blank"><img align="center" src="https://s.yimg.com/fz/api/res/1.2/NhwYwMgm7uK1tzzPHNBnYg--~C/YXBwaWQ9c3JjaGRkO2ZpPWZpdDtoPTI2MDtxPTgwO3c9MzMy/https://s.yimg.com/zb/imgv1/7277eb29-ceee-34a2-b4dc-ec28a673f5d5/t_500x300" alt="QBbmnNjX"  height="40" width="70"  /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
