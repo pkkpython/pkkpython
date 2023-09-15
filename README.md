@@ -1,17 +1,19 @@
 ![Black Minimal Business Personal Profile Linkedin Banner](https://drive.google.com/uc?export=view&id=1DDCAnX_sEV3gTsO0aqx9JsTGAkjCKtvd
 )
 
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=pkkpython&label=Profile%20views&color=0e75b6&style=flat" alt="pkkpython" /> </p>
 
 
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pintu+Kumar+Kushwaha!;" />
+</h1>
 
-<h1 align="center">Hi 👋
 
 <p align="center">
   <a href="https://linkedin.com/in/pintukushwaha"><img alt="LinkedIn" src="https://media.tenor.com/yCFHzEvKa9MAAAAi/hello.gif" /></a>
  
 </p>
   
-I'm Pintu Kumar Kushwaha</h1>
 <h3 align="center">Passionate Data Analyst Uncovering Insights to Drive Business Decisions</h3>
 
 <p align="center">
@@ -48,30 +50,50 @@ I'm Pintu Kumar Kushwaha</h1>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://logos-download.com/wp-content/uploads/2016/05/MySQL_logo_logotype.png" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://pandas.pydata.org/static/img/pandas_white.svg" alt="pandas" width="80" height="80"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://www.python.org/static/img/python-logo.png" alt="python" > </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pkkpython&show_icons=true&locale=en&layout=compact" alt="pkkpython" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pkkpython&show_icons=true&locale=en" alt="pkkpython" /></p>
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pkkpython&" alt="pkkpython" /></p>
+<hr/>
 
+<h2 align="center">⚡ Stats ⚡</h2>
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=pkkpython&show_icons=true&locale=en&layout=compact" alt="pkkpython" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=pkkpython&show_icons=true&locale=en" alt="pkkpython" /></td>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=pkkpython&" alt="pkkpython" /></td>
+  </tr>
+</table>
+</div>
+
+<br/><br/>
 
  <div align="center"> 
 <img height="500em"src="https://miro.medium.com/v2/resize:fit:1400/format:gif/1*g__jiesLRIfCRefVG69Pfw.gif" alt"hello world"> <br><br><br>
 </div> 
 
 
-
 ### Connect with me:!
  
-<div> 
+<div
+  align="center"> 
   <a href="https://www.youtube.com/@knowledgeforyou1584/" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/iampintukushwaha/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/QBbmnNjX" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:pkmansarowar@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:pkmansarowar@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23E4405F?style=for-the-badge&logo=gmail&logoColor=white" target="_black"></a>
   <a href="https://linkedin.com/in/pintukushwaha" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/pkkpython/pkkpython/blob/output/github-contribution-grid-snake.svg)
 
 </div>
+
+<br/><br/>
+<hr/>
+
+<h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
+</h3>
+
+<br/>
+
 
 
