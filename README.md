@@ -22,7 +22,7 @@ I'm Pintu Kumar Kushwaha</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pkkpython&label=Profile%20views&color=0e75b6&style=flat" alt="pkkpython" /> </p>
 
-<img align="right" alt="Data Analyst" width="400" src="https://uploads-ssl.webflow.com/5c19100c2b50073e6ee69da1/60d34f3b422c048fb72cb925_Analyze.gif">
+<img align="right" alt="Data Analyst" width="400" src="https://i.pinimg.com/originals/1d/ed/32/1ded3280501fb9983c859f8810a6fb04.gif">
 
 - 🌱I’m currently Learning **Data Science, Machine Learning**
 
@@ -56,7 +56,7 @@ I'm Pintu Kumar Kushwaha</h1>
 
 
  <div align="center"> 
-<img height="300em"src="https://cdna.artstation.com/p/assets/images/images/035/693/656/original/gwyneth-balucio-hello-world.gif?1615642877" alt"hello world"> <br><br><br>
+<img height="500em"src="https://miro.medium.com/v2/resize:fit:1400/format:gif/1*g__jiesLRIfCRefVG69Pfw.gif" alt"hello world"> <br><br><br>
 </div> 
 
 
