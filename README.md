@@ -1,4 +1,4 @@
-![Black Minimal Business Personal Profile Linkedin Banner](https://media.licdn.com/dms/image/D4D16AQEVbF7HSISzYg/profile-displaybackgroundimage-shrink_350_1400/0/1694742464399?e=1700697600&v=beta&t=Bg1UVDe7n7IHSmtgSucBMQlwZYIcTYiWsW9mW43epPE
+![Black Minimal Business Personal Profile Linkedin Banner](https://media.licdn.com/dms/image/D4D16AQEC672M6ZkIiw/profile-displaybackgroundimage-shrink_350_1400/0/1696390133979?e=1703721600&v=beta&t=WEM0gvyCLLneVXYKq9v-WXEt6gY4g81s1bLErFh8Esc
 )
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=pkkpython&label=Profile%20views&color=0e75b6&style=flat" alt="pkkpython" /> </p>
